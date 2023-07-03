@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 ## *À propos de moi*
-Souleymane développeur full stack JAVA JEE passioné, en permanence à la recherche de nouvelles connaissances. J'ai décider d'entamer une formation en développement web dans le cadre d'une reconversion professionnelle afin d'approfondir mes connaissances en informatique acquises il y a quelques années et dans le but de monter en compétence.
+Souleymane, développeur full stack JAVA JEE, passionné, en permanence à la recherche de nouvelles connaissances. J'ai décidé d'entamer une formation en développement web dans le cadre d'une reconversion professionnelle. Mon objectif était d'approfondir mes connaissances en informatique acquises il y a quelques années et de monter en compétence sur de nouvelles technologies.
 
 ## *Mes compétences*
 ### *Langages* :
@@ -21,15 +21,16 @@ Scrum, Kanban
 
 
 ## *Mes projets*
-Je travaille régulièrement sur des projets personnels pour continuer à apprendre et à m'améliorer en tant que développeur full stack. Certains de mes projets les plus récents incluent :
+Je travaille régulièrement sur des projets personnels ce qui me permet d'en apprendre davantage et m'améliorer.
+### *Mes projets les plus récents* :
 
-World of Java : World of Java est un jeu de rôle écrit en Java.
+World of Java : un jeu de rôle écrit en Java afin de manipuler la POO
 
-Groove Street : Groove street est une plateforme de mise en relation de musicien.
+Groove Street : une plateforme de mise en relation de musiciens qui tourne avec Spring Boot pour le back et un front Angular
 
 N'hésitez pas à explorer mes autres projets sur mon profil GitHub pour découvrir mon travail !
 
-## *Contact*
+## *Contact* 💬
 Si vous souhaitez me contacter pour discuter de collaborations, d'opportunités professionnelles 💼, vous pouvez me joindre par [email](mailto:souleymane.rakkassy@gmail.com) ou
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="Logo LinkedIn" width="30px" height="30px">](https://www.linkedin.com/in/souleymane-rakkassy-305699209/)
 
